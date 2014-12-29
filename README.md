@@ -15,6 +15,9 @@ http://www.phoenixframework.org/ _Phoenix is a framework for building scalable w
 
 [Elixir – The Love Child of Ruby and Erlang](http://www.sitepoint.com/elixir-love-child-ruby-erlang/) _Benjamin Tan Wei Hao's Quick Tour of Elixir_
 
+[ELIXIR
+FOR THE FUNCTIONAL RUBYIST.](http://elixir-for-rubyists.com/) _Johnny Winn's Forthcoming Book_
+
 # Elixir for Systems Administration
 
 # Elixir Tooling
