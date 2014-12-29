@@ -13,6 +13,8 @@ http://elixir-lang.org/ _Elixir is a dynamic, functional language designed for b
 
 http://www.phoenixframework.org/ _Phoenix is a framework for building scalable web applications with realtime connectivity across all your devices. It relies on the Elixir language for making the development of maintainable applications productive and fun._
 
+[Elixir – The Love Child of Ruby and Erlang](http://www.sitepoint.com/elixir-love-child-ruby-erlang/) _Benjamin Tan Wei Hao's Quick Tour of Elixir_
+
 # Elixir for Systems Administration
 
 # Elixir Tooling
