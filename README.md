@@ -1,7 +1,8 @@
 elixir-bookmarks
 ================
 
-Everything Elixir.
+Everything Elixir as I discover it or you suggest it. Have a suggestion? Submit
+a pull request for exactly one link with a description of the link.
 
 # Elixir General
 
