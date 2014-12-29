@@ -20,3 +20,7 @@ http://www.phoenixframework.org/ _Phoenix is a framework for building scalable w
 # Elixir Tooling
 
 http://usevim.com/2013/06/12/vim-and-elixir/ Elixir and Mix support with Vim.
+
+# References
+
+http://media.pragprog.com/titles/elixir/ElixirCheat.pdf _Pragmatic Programmer Bookshelf Elixir Cheat Sheet_ (PDF)
