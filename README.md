@@ -10,6 +10,8 @@ http://elixir-lang.org/ _Elixir is a dynamic, functional language designed for b
 
 # Elixir for Beginners
 
+http://blog.trenpixster.info/elixir-from-0-to-spawn/ _Elixir: From 0 to spawn() in 30 minutes_
+
 # Elixir for Web Developers
 
 http://www.phoenixframework.org/ _Phoenix is a framework for building scalable web applications with realtime connectivity across all your devices. It relies on the Elixir language for making the development of maintainable applications productive and fun._
