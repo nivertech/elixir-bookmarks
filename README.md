@@ -14,3 +14,7 @@ http://elixir-lang.org/ _Elixir is a dynamic, functional language designed for b
 http://www.phoenixframework.org/ _Phoenix is a framework for building scalable web applications with realtime connectivity across all your devices. It relies on the Elixir language for making the development of maintainable applications productive and fun._
 
 # Elixir for Systems Administration
+
+# Elixir Tooling
+
+http://usevim.com/2013/06/12/vim-and-elixir/ Elixir and Mix support with Vim.
