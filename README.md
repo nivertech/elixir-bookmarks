@@ -19,6 +19,9 @@ http://www.phoenixframework.org/ _Phoenix is a framework for building scalable w
 FOR THE FUNCTIONAL RUBYIST.](http://elixir-for-rubyists.com/) _Johnny Winn's Forthcoming Book_
 
 # Elixir for Systems Administration
+# Elixir Metaprogramming
+
+[Quote and Unquote](http://learnelixir.com/blog/2014/10/13/quote-and-unquote-in-elixir/) _Quote is a function in Elixir which is used to break an expression into an abstract syntax tree (AST)._
 
 # Elixir Tooling
 
