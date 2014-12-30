@@ -41,6 +41,8 @@ coding standards in Erlang (the VM Elixir runs in) are applicable._
 
 [Meetups](http://elixir.meetup.com/) _Groups 25 	Members 2,564 	Interested 81 	Cities 25 	Countries 13 when this was checked-in._
 
+[Reddit /r/elixir](https://www.reddit.com/r/elixir/)
+
 # References
 
 http://media.pragprog.com/titles/elixir/ElixirCheat.pdf _Pragmatic Programmer Bookshelf Elixir Cheat Sheet_ (PDF)
