@@ -26,13 +26,16 @@ FOR THE FUNCTIONAL RUBYIST.](http://elixir-for-rubyists.com/) _Johnny Winn's For
 
 [Quote and Unquote](http://learnelixir.com/blog/2014/10/13/quote-and-unquote-in-elixir/) _Quote is a function in Elixir which is used to break an expression into an abstract syntax tree (AST)._
 
-# Elixir Tooling
+# Elixir Tooling and Coding Standards
 
 http://usevim.com/2013/06/12/vim-and-elixir/ Elixir and Mix support with Vim.
 
+https://github.com/inaka/erlang_guidelines/blob/master/README.md _Many
+coding standards in Erlang (the VM Elixir runs in) are applicable._
+
 # Elixir Meetings and Conferences
 
-[Meetups](http://elixir.meetup.com/) _Groups 25 	Members 2,564 	Interested 81 	Cities 25 	Countries 13 when this was checked-in._ 
+[Meetups](http://elixir.meetup.com/) _Groups 25 	Members 2,564 	Interested 81 	Cities 25 	Countries 13 when this was checked-in._
 
 # References
 
