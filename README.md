@@ -30,6 +30,10 @@ FOR THE FUNCTIONAL RUBYIST.](http://elixir-for-rubyists.com/) _Johnny Winn's For
 
 http://usevim.com/2013/06/12/vim-and-elixir/ Elixir and Mix support with Vim.
 
+# Elixir Meetings and Conferences
+
+[Meetups](http://elixir.meetup.com/) _Groups 25 	Members 2,564 	Interested 81 	Cities 25 	Countries 13 when this was checked-in._ 
+
 # References
 
 http://media.pragprog.com/titles/elixir/ElixirCheat.pdf _Pragmatic Programmer Bookshelf Elixir Cheat Sheet_ (PDF)
