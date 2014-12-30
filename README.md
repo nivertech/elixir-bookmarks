@@ -52,6 +52,8 @@ coding standards in Erlang (the VM Elixir runs in) are applicable._
 
 # Videos
 
+[Think Different by Dave Thomas](https://www.youtube.com/watch?v=5hDVftaPQwY) _Elixir Conf 2014. Time: 56m_.
+
 [Writing Command Line Applications with Elixir by James Smith](https://www.youtube.com/watch?v=7l_fDU86pr4&feature=youtu.be&list=PLE7tQUdRKcyakbmyFcmznq2iNtL80mCsT) _From Elixir Conf 2014. Time: 32m_
 
 # References
