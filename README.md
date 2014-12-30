@@ -43,6 +43,10 @@ coding standards in Erlang (the VM Elixir runs in) are applicable._
 
 [Reddit /r/elixir](https://www.reddit.com/r/elixir/)
 
+# Videos
+
+[Writing Command Line Applications with Elixir by James Smith](https://www.youtube.com/watch?v=7l_fDU86pr4&feature=youtu.be&list=PLE7tQUdRKcyakbmyFcmznq2iNtL80mCsT) _From Elixir Conf 2014. Time: 32m_
+
 # References
 
 http://media.pragprog.com/titles/elixir/ElixirCheat.pdf _Pragmatic Programmer Bookshelf Elixir Cheat Sheet_ (PDF)
