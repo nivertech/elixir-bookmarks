@@ -42,6 +42,8 @@ http://usevim.com/2013/06/12/vim-and-elixir/ Elixir and Mix support with Vim.
 https://github.com/inaka/erlang_guidelines/blob/master/README.md _Many
 coding standards in Erlang (the VM Elixir runs in) are applicable._
 
+[Writing Assertive Code and Polymorphism with Protocols](http://blog.plataformatec.com.br/2014/09/writing-assertive-code-with-elixir/)
+
 # Elixir Meetings and Conferences
 
 [Meetups](http://elixir.meetup.com/) _Groups 25 	Members 2,564 	Interested 81 	Cities 25 	Countries 13 when this was checked-in._
