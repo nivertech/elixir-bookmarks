@@ -1,6 +1,8 @@
 elixir-bookmarks
 ================
 
+_Stop the press!_ Here's another curated list to check out! [Awesome Elixir](https://github.com/h4cc/awesome-elixir)
+
 Everything Elixir as I discover it or you suggest it. Have a suggestion? Submit
 a pull request for exactly one link with a description of the link.
 
