@@ -25,6 +25,8 @@ http://www.phoenixframework.org/ _Phoenix is a framework for building scalable w
 [ELIXIR
 FOR THE FUNCTIONAL RUBYIST.](http://elixir-for-rubyists.com/) _Johnny Winn's Forthcoming Book_
 
+[Translating Ruby to Elixir](http://www.johnpdaigle.com/complexable/2014/12/30/translating-ruby-to-elixir.html) 
+
 # Elixir for Systems Administration
 
 # Components and Resuse
