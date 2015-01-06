@@ -65,3 +65,7 @@ coding standards in Erlang (the VM Elixir runs in) are applicable._
 # References
 
 http://media.pragprog.com/titles/elixir/ElixirCheat.pdf _Pragmatic Programmer Bookshelf Elixir Cheat Sheet_ (PDF)
+
+# Almost to the Metal
+
+[Erlang Repositories](https://github.com/agner)
